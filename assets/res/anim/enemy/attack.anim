@@ -1,0 +1,181 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.8,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d4e330e5-523a-4c87-bc5a-524869917f60"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "78f945b7-062a-42e7-9c17-7465ea2a3291"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "5498dd4a-ddde-4eba-83f6-6e9d8b8fb00a"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "62d4d167-a0c1-4cd8-98be-ff968322655a"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "fdaedec7-a4b4-47da-8e00-e237b9076bd1"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "751dc914-f4cf-49ff-aaeb-663314327aee"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "d011218c-5e85-429f-bc1d-066017970328"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "24942022-d358-4d87-906d-17467b3134b0"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "6ba23085-73bc-40f5-b8c8-7c3a76e7f1ad"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "26338a1d-b5fa-4558-a99a-5ab9324d532a"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "f3251b05-15d4-4a93-b14f-d26da721f156"
+            }
+          },
+          {
+            "frame": 1.1,
+            "value": {
+              "__uuid__": "a0528556-00b3-416c-ad34-b4906f7316cc"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "e3c55c09-4de6-41c8-bcf2-f68c12c56075"
+            }
+          },
+          {
+            "frame": 1.3,
+            "value": {
+              "__uuid__": "599d2294-c237-40d5-a84f-283b7a1b4565"
+            }
+          },
+          {
+            "frame": 1.4,
+            "value": {
+              "__uuid__": "233cd28a-ae16-4016-8da5-56f46424dcaf"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "d53efdfb-94ef-4096-bed4-56f3f22247f8"
+            }
+          },
+          {
+            "frame": 1.6,
+            "value": {
+              "__uuid__": "2a52fcbe-1308-4864-ac10-7eb2088764b6"
+            }
+          },
+          {
+            "frame": 1.7,
+            "value": {
+              "__uuid__": "bcd67ed8-2672-4a63-8f23-9a0ab2e8154b"
+            }
+          }
+        ]
+      },
+      "cc.BoxCollider": {
+        "offset": [
+          {
+            "frame": 0.6,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": 1.1,
+              "y": 18.6
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "size": [
+          {
+            "frame": 0.6,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 41.4,
+              "height": 36.8
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 0,
+              "height": 0
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
